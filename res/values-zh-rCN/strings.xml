@@ -76,6 +76,7 @@
     <string name="action_info">详情</string>
     <string name="action_delete">删除</string>
     <string name="action_cancel">取消</string>
+    <string name="action_changelog">日志</string>
     <string name="confirm_delete_dialog_title">删除文件</string>
     <string name="confirm_delete_dialog_message">您确定要删除选择的更新文件？</string>
     <string name="apply_update_dialog_title">应用更新</string>
