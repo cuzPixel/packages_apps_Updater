@@ -39,10 +39,10 @@ public final class Constants {
 
     public static final String PROP_AB_DEVICE = "ro.build.ab_update";
     public static final String PROP_BUILD_DATE = "ro.build.date.utc";
-    public static final String PROP_BUILD_VERSION = "org.pixelexperience.version";
-    public static final String PROP_DEVICE = "org.pixelexperience.device";
+    public static final String PROP_BUILD_VERSION = "org.cuzpixel.version";
+    public static final String PROP_DEVICE = "org.cuzpixel.device";
     public static final String PROP_NEXT_DEVICE = "ro.updater.next_device";
-    public static final String PROP_RELEASE_TYPE = "org.pixelexperience.build_type";
+    public static final String PROP_RELEASE_TYPE = "org.cuzpixel.build_type";
 
     public static final String PREF_INSTALL_OLD_TIMESTAMP = "install_old_timestamp";
     public static final String PREF_INSTALL_NEW_TIMESTAMP = "install_new_timestamp";
